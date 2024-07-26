@@ -8,7 +8,7 @@
 
 O projeto está acessível diretamente pelo navegador. Não é necessário instalar nada. Basta acessar o link do projeto:
 
-[**Acesse a Calculadora Web**](file:///C:/Users/Jamile/Documents/Raymer/Projetos/calculadora/index.html)
+[**Acesse a Calculadora Web**](https://raymer-coelho.github.io/Calculadora/)
 
 ## Como Usar
 
